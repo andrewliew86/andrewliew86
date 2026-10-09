@@ -1,16 +1,20 @@
-## Hi there 👋
+<img align="right" src="avatar.png" width="240" alt="Andrew’s biomedical data science avatar" />
 
-<!--
-**andrewliew86/andrewliew86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Andrew 👋
+### 🧬 From microbes to machine learning
 
-Here are some ideas to get you started:
+I’m a biomedical scientist turned data scientist in Melbourne,
+connecting biology, statistics and software to help scientists
+make sense of their data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 **Building**: Biomedical analytics, scientific workflows
+and AI agents for research.
+
+🛠️ **Tech stack**: Python, R, SQL, Microsoft Fabric, Azure
+
+📊 **Modelling**: Mixed-effects models, Machine learning, LLMs
+
+🌱 **Exploring**: Nature through data
+
+🔭 **Outside work** · Astrophotography, hiking and adventures
+with our ginger cat, Mochi.
