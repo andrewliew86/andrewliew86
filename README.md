@@ -4,10 +4,10 @@
 ### 🧬 From microbes to machine learning
 
 I’m a biomedical scientist turned data scientist in Melbourne,
-connecting biology, statistics and software to help scientists
+connecting biology, statistics, data engineering and software to help scientists
 make sense of their data.
 
-🧪 **Building**: Biomedical analytics, scientific workflows
+🧪 **Building**: Biomedical analytics, scientific workflows, data pipelines
 and AI agents for research.
 
 🛠️ **Tech stack**: Python, R, SQL, Microsoft Fabric, Azure
