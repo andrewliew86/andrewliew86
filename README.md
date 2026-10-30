@@ -15,6 +15,6 @@ and AI agents for research.
 
 🌱 **Exploring**: Computational biology/chemistry and image analysis
 
-🔭 **Outside work**: Astrophotography, hiking and adventures
+🔭 **Outside work**: Astrophotography, Raspberry Pi, hiking and adventures
 with my ginger cat, Mochi.
 
